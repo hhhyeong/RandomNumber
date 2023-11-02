@@ -2,6 +2,7 @@
 ![스크린샷 2023-11-02 오전 9 52 56](https://github.com/hhhyeong/number-guessing-game/assets/22636369/636646a2-63fb-4b57-9c03-5e5e2c8e93a6)
 
 데모 url : https://number-guessing-game-hyeong.netlify.app/
+
 술게임 Up Down에서 영감을 받은 프로젝트입니다.
 
 ## 기능
